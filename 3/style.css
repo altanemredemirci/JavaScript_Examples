@@ -1,0 +1,20 @@
+.yuklenir{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.yuklenme-bitti{
+    height: 100vh;
+    display: none;
+    flex-wrap: wrap;
+}
+
+
+.mars-foto{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 5px;
+}
